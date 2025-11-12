@@ -28,7 +28,7 @@ La interfaz se diseñó con un enfoque en **simplicidad y claridad**, priorizand
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/weather-app.git
+   git clone https://github.com/ycarlosdev/meteorology
    cd weather-app
    ```
 
